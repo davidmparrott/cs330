@@ -1,7 +1,0 @@
-#import <math.h>
-#import <stdio.h>
-
-int main ( int argc, char* argv[] ) {
-  long double n = 0.5 * pow ( 10, -14 );
-  printf ( "n = %llf\n", n );
-}

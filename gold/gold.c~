@@ -1,7 +1,0 @@
-float gold(float (*f)(float), float a, float b, float c, float tol){
-  float fa = f(a), fb = f(b), fc = f(c);
-  float x;
-  do {
-    
-  }while(xxx);
-}
