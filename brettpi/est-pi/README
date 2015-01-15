@@ -1,0 +1,17 @@
+Brett Carter
+brett.carter@wsu.edu
+
+estimating pi.
+
+Description:
+In this program I use four different methods to approximate pi. I use the composite forms of the trapezoidal, simpson's 1/3 and simpson's 3/8 rules as well as boole's rule. with these approximations I then find the error in this calculation by comparing it to a predetermined value of pi.
+
+compile and run:
+gcc -std=c99 estpi.c -o estpi     //compile
+./estpi	     	     		  //run
+
+it will output a 5 column table with the value of n and the error term of each method to stdout.
+
+files:
+estpi.c
+README
